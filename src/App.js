@@ -34,7 +34,7 @@ function App() {
 
              <button 
               onClick={addTask}
-              className='bg-blue-500 text-white px-4 py-2 rounded-r-lg hover:bg-blue-600'>adicionar</button>
+              className='bg-blue-500 text-white px-4 py-2 rounded-r-lg hover:bg-blue-700'>adicionar</button>
 
           </div>
 
